@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-fetch-with-proxy",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Use nodejs fetch to make requests with a proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^3.3.2"
+  }
+}
