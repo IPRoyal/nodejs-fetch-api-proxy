@@ -1,5 +1,8 @@
 # Node-Fetch Proxy Tutorial for 2025
-
+<a href="https://iproyal.com/proxies/">
+  <img width="2180" height="550" alt="GitHub Banner"
+       src="https://github.com/user-attachments/assets/c857fdbc-882d-4089-af87-cfa93408311d"></img>
+</a>
 Node-Fetch is a popular library that brings the Fetch API to Node.js. With it, you can connect to pages, send post data, and request contents, which makes it a suitable tool for many tasks, including Node.js web scraping. In addition, Node.js includes default support for the fetch function since v18.
 
 But there’s a problem. Out of the box, there’s no node-fetch proxy option. Therefore, you can get blocked quickly when using only your own IP address.
